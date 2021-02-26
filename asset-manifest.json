@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/nova-project/static/css/main.6a0ae4b4.chunk.css",
+    "main.js": "/nova-project/static/js/main.1ebd3df4.chunk.js",
+    "main.js.map": "/nova-project/static/js/main.1ebd3df4.chunk.js.map",
+    "runtime-main.js": "/nova-project/static/js/runtime-main.e317d5db.js",
+    "runtime-main.js.map": "/nova-project/static/js/runtime-main.e317d5db.js.map",
+    "static/css/2.fec0b29e.chunk.css": "/nova-project/static/css/2.fec0b29e.chunk.css",
+    "static/js/2.0e91b8a0.chunk.js": "/nova-project/static/js/2.0e91b8a0.chunk.js",
+    "static/js/2.0e91b8a0.chunk.js.map": "/nova-project/static/js/2.0e91b8a0.chunk.js.map",
+    "static/js/3.a409e6c3.chunk.js": "/nova-project/static/js/3.a409e6c3.chunk.js",
+    "static/js/3.a409e6c3.chunk.js.map": "/nova-project/static/js/3.a409e6c3.chunk.js.map",
+    "index.html": "/nova-project/index.html",
+    "static/css/2.fec0b29e.chunk.css.map": "/nova-project/static/css/2.fec0b29e.chunk.css.map",
+    "static/css/main.6a0ae4b4.chunk.css.map": "/nova-project/static/css/main.6a0ae4b4.chunk.css.map",
+    "static/js/2.0e91b8a0.chunk.js.LICENSE.txt": "/nova-project/static/js/2.0e91b8a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e317d5db.js",
+    "static/css/2.fec0b29e.chunk.css",
+    "static/js/2.0e91b8a0.chunk.js",
+    "static/css/main.6a0ae4b4.chunk.css",
+    "static/js/main.1ebd3df4.chunk.js"
+  ]
+}
