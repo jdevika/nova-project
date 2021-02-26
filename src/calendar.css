@@ -1,0 +1,11 @@
+.fc a{
+    text-decoration: none!important;
+    color:black!important;
+}
+
+.fc-scroller {
+    overflow-y: hidden !important;
+ }
+ .fc-daygrid-event{
+    border-radius:0px !important;
+}
